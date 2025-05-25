@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Galaxy Z Fold 6",
+        "price": 7500,
+        "categoryId": "1",
+        "image": "z fold 6",
+        "id": "1"
+    },
+    {
+        "name": "Galaxy S25 Ultra",
+        "price": 5500,
+        "categoryId": "1",
+        "image": "s25 ultra",
+        "id": "2"
+    },
+    {
+        "name": "Xiaomi 14T Pro",
+        "price": 2600,
+        "categoryId": "1",
+        "image": "xiaomi 14t",
+        "id": "3"
+    },
+    {
+        "name": "Iphone 16 Pro Max",
+        "price": 8800,
+        "categoryId": "1",
+        "image": "iphone 16",
+        "id": "4"
+    },
+    {
+        "name": "Realme C55",
+        "price": 560,
+        "categoryId": "1",
+        "image": "realme c55",
+        "id": "5"
+    },
+    {
+        "name": "Pc Gamer i5 12è Gén 16G MSI RTX 3050 8G OC",
+        "price": 1899,
+        "categoryId": "4",
+        "image": "pc gamer",
+        "id": "6"
+    },
+    {
+        "name": "Lenevo Tab M10",
+        "price": 339,
+        "categoryId": "2",
+        "image": "tab m10",
+        "id": "7"
+    },
+    {
+        "name": "Mibro C4",
+        "price": 129,
+        "categoryId": "5",
+        "image": "mibro c4",
+        "id": "8"
+    },
+    {
+        "name": "Haylo Solar Neo",
+        "price": 5,
+        "categoryId": "5",
+        "image": "haylo solar",
+        "id": "9"
+    },
+    {
+        "name": "Pc Gamer AMD Ryzen 9 32Go MSI RTX 4080 16GB",
+        "price": 11699,
+        "categoryId": "4",
+        "image": "pc gamer 2",
+        "id": "10"
+    },
+    {
+        "name": "PC Portable Gamer DELL G15 i7 13ème Gén 32G RTX 4050",
+        "price": 3929,
+        "categoryId": "3",
+        "image": "dell g15",
+        "id": "11"
+    },
+    {
+        "name": "PC Portable Gamer LENOVO LOQ i5 12ème Gén 24Go RTX3050",
+        "price": 2759,
+        "categoryId": "3",
+        "image": "loq",
+        "id": "12"
+    },
+    {
+        "name": "IPad Air 11",
+        "price": 3689,
+        "categoryId": "2",
+        "image": "ipad",
+        "id": "13"
+    }
+]
