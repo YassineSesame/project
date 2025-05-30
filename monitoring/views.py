@@ -21,3 +21,4 @@ class SystemViewSet(viewsets.ModelViewSet):
     queryset = System.objects.all()
     serializer_class = SystemSerializer
     permission_classes = [permissions.IsAuthenticated]
+

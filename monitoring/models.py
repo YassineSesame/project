@@ -47,3 +47,9 @@ class AlertRule(models.Model):
 
     def __str__(self):
         return f"Alert on {self.system.name}:{self.metric_name} if >= {self.threshold}"
+    
+
+
+
+
+
